@@ -107,6 +107,7 @@ hr {
 	color: #FFFFFF;
 	font-weight: 700;
 	letter-spacing: 1px;
+	padding-top: 0;
 }
 #menu a.navbar-brand i.fa {
 	color: #f3ca27;
