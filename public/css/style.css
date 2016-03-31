@@ -58,7 +58,7 @@ ul, ol {
 .clearfix {
 	display: block;
 }
-#preloader {
+/*#preloader {
 	position: fixed;
 	top: 0;
 	left: 0;
@@ -67,7 +67,7 @@ ul, ol {
 	background: #032e3a;
 	z-index: 99999;
 	height: 100%;
-}
+}*/
 #status {
 	position: absolute;
 	left: 50%;
@@ -141,7 +141,11 @@ hr {
 }
 /* Home Style */
 
-
+#preloader{
+	height: 0;
+	widows: 0;
+	display: inline;
+}
 header {
 	background: url(../img/background/1c.jpg) no-repeat bottom center;
 	background-size: cover;
