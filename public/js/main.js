@@ -52,6 +52,7 @@ function main() {
     })
 
   	$(document).ready(function() {
+
   	  $("#team").owlCarousel({
   	 
   	      navigation : false, // Show next and prev buttons
